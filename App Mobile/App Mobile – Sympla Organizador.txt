@@ -1,0 +1,9 @@
+App Mobile – Sympla Organizador
+
+Autora: Ana Karla Alves da Cruz
+
+Este é um protótipo de aplicativo mobile de eventos desenvolvido com foco em facilitar a criação, visualização e personalização de eventos. O projeto foi criado no Figma com objetivo educacional, visando praticar conceitos de UX/UI, organização de telas e experiência do usuário.
+
+Acesso: https://www.figma.com/proto/jvJf6jPOz3TwZe1xTVGVgh/Frame-Mobile?node-id=152-205&t=2kVeLpdedNz3Kn20-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=152%3A207
+
+Para um teste melhor selecione a opção de Android Compacto.
